@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Satwik 👋</h1>
+<div align="center">
 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Satwik%20Geddada&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20|%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+AI-Powered+Web+Apps;Python+%7C+React+%7C+Flask" alt="Typing SVG" />
 </p>
@@ -8,12 +12,13 @@
   <a href="https://www.linkedin.com/in/satwik-geddada-72bb172b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="[your-portfolio-link]"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=satwikgeddada&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 ## 🎯 About Me
-- 🎓 [Your degree, year, college]
+- 🎓 B.Tech, Final year, Srinivasa Institute Of Engineering and Technology
 - 🔭 Currently building: AI-powered tools with Gemini and Flask/React
-- 🌱 Learning: [e.g. system design, cloud, testing]
+- 🌱 Learning: AI, Cloud, Dev-Ops
 - 🤝 Open to: internships, collaborations, freelance projects
 
 ## 💼 Featured Projects
@@ -33,8 +38,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🏆 Achievements & Certifications
-- [Only add real ones: hackathons, certificates, competitions]
+## 🏆 Achievements & Recognition
+- 🥇 **1st Prize**, JNTUK Project Expo, for the **WiFi SmartShield** project
+- 🥈 **Runner-up**, Code Yodha coding competition
+- 🎓 **Microsoft Learn Student Ambassador**
 
 ## 📊 GitHub Stats
 <p align="center">
