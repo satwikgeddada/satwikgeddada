@@ -1,5 +1,5 @@
 
-  <h1 align="center"> Hi I'm Satwik </h1>
+<h1 align="center">✨ Hi, I'm <span style="color:#2C9FD9">Satwik</span> 👨‍💻</h1>
   
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9FD9&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Developer;Building+AI-Powered+Web+Apps;Microsoft+Student+Ambassador" alt="Typing SVG" />
