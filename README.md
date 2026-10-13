@@ -1,11 +1,7 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Satwik%20Geddada&fontSize=44&fontColor=ffffff&fontAlignY=36"/>
-
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9FD9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+AI-Powered+Web+Apps;Python+%7C+React+%7C+Flask" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Satwik%20Geddada&fontSize=44&fontColor=ffffff&fontAlignY=40" width="100%"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9FD9&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Developer;Building+AI-Powered+Web+Apps;Microsoft+Student+Ambassador" alt="Typing SVG" />
 </p>
 
 <p align="center">
