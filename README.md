@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Satwik%20Geddada&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20|%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Satwik%20Geddada&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Building%20Digital%20Experiences%20%7C%20One%20Line%20at%20a%20Time&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 </div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+AI-Powered+Web+Apps;Python+%7C+React+%7C+Flask" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9FD9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+AI-Powered+Web+Apps;Python+%7C+React+%7C+Flask" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satwik-geddada-72bb172b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[your-portfolio-link]"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=satwikgeddada&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://hits.sh/github.com/satwikgeddada.svg?style=for-the-badge&label=Profile%20Views&color=2c5364" alt="Profile views" />
 </p>
 
 ## 🎯 About Me
