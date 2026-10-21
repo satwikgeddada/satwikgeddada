@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satwik-geddada-72bb172b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:satwik.geddada05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <img src="https://hits.sh/github.com/satwikgeddada.svg?style=for-the-badge&label=Profile%20Views&color=2c5364" alt="Profile views" />
 </p>
@@ -21,12 +21,11 @@
 ## 💼 Featured Projects
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| 🤖 [AI Portfolio Analyzer](https://github.com/satwikgeddada/AI-Powered-GitHub-Portfolio-Analyzer) | Analyzes GitHub profiles with Gemini AI and MCP architecture | Python, Gemini | [Demo]([link]) |
-| 🏟️ [Stadium-Mind-AI](https://github.com/satwikgeddada/Stadium-Mind-AI) | GenAI stadium operations platform for crowd management and navigation | React, FastAPI | [Demo]([link]) |
-| 🎟️ [EventHub](https://github.com/satwikgeddada/event-hub) | College event platform with Razorpay payments and role-based dashboards | React, Vite, Firebase | [Demo]([link]) |
+| 📚 [Research AI](https://github.com/satwikgeddada/Password-Sentinel) | Password strength analyzer using Shannon entropy | Flask, JavaScript | [Demo](https://researchai-app.vercel.app/login) |
+| 🤖 [GitHub Portfolio Analyzer](https://github.com/satwikgeddada/AI-Powered-GitHub-Portfolio-Analyzer) | Analyzes GitHub profiles with Gemini AI and MCP architecture | Python, Gemini | [Demo]([link]) |
 | 📄 [AI Resume Analyzer](https://github.com/satwikgeddada/AI-Resume-analyzer) | ATS scoring and skill-gap analysis using Gemini | JavaScript, Gemini | [Demo]([link]) |
-| 🔐 [Password Sentinel](https://github.com/satwikgeddada/Password-Sentinel) | Password strength analyzer using Shannon entropy | Flask, JavaScript | [Demo]([link]) |
-
+| 🏟️ [Stadium-Mind-AI](https://github.com/satwikgeddada/Stadium-Mind-AI) | GenAI stadium operations platform for crowd management and navigation | React, FastAPI | [Demo](https://stadium-mind-ai-two.vercel.app/) |
+| 🎟️ [EventHub](https://github.com/satwikgeddada/event-hub) | College event platform with Razorpay payments and role-based dashboards | React, Vite, Firebase | [Demo]([link]) |
 ## 💻 Tech Stack
 
 **Languages**
