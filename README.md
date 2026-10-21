@@ -21,11 +21,11 @@
 ## 💼 Featured Projects
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| 📚 [Research AI](https://github.com/satwikgeddada/Password-Sentinel) | Password strength analyzer using Shannon entropy | Flask, JavaScript | [Demo](https://researchai-app.vercel.app/login) |
-| 🤖 [GitHub Portfolio Analyzer](https://github.com/satwikgeddada/AI-Powered-GitHub-Portfolio-Analyzer) | Analyzes GitHub profiles with Gemini AI and MCP architecture | Python, Gemini | [Demo]([link]) |
-| 📄 [AI Resume Analyzer](https://github.com/satwikgeddada/AI-Resume-analyzer) | ATS scoring and skill-gap analysis using Gemini | JavaScript, Gemini | [Demo]([link]) |
-| 🏟️ [Stadium-Mind-AI](https://github.com/satwikgeddada/Stadium-Mind-AI) | GenAI stadium operations platform for crowd management and navigation | React, FastAPI | [Demo](https://stadium-mind-ai-two.vercel.app/) |
-| 🎟️ [EventHub](https://github.com/satwikgeddada/event-hub) | College event platform with Razorpay payments and role-based dashboards | React, Vite, Firebase | [Demo]([link]) |
+| 📚 [Research AI](https://github.com/satwikgeddada/Password-Sentinel) | AI-powered platform for analyzing, organizing, and managing research papers using intelligent insights | React, TypeScript, FastAPI, Supabase, PostgreSQL, RAG | [Demo](https://researchai-app.vercel.app/login) |
+| 🤖 [GitHub Portfolio Analyzer](https://github.com/satwikgeddada/AI-Powered-GitHub-Portfolio-Analyzer) | Analyzes GitHub profiles with Gemini AI and MCP architecture | Next.js, Tailwind CSS, FastAPI, Python, Gemini AI, GitHub API | [Demo]([link]) |
+| 📄 [AI Resume Analyzer](https://github.com/satwikgeddada/AI-Resume-analyzer) | ATS scoring and skill-gap analysis using Gemini | Python, FastAPI, Google Gemini API, PyPDF2, Chart.js | [Demo]([link]) |
+| 🏟️ [Stadium-Mind-AI](https://github.com/satwikgeddada/Stadium-Mind-AI) | GenAI stadium operations platform for crowd management and navigation | React, TypeScript, Tailwind CSS, Node.js, Gemini AI, Firebase | [Demo](https://stadium-mind-ai-two.vercel.app/) | 
+| 🎟️ [EventHub](https://github.com/satwikgeddada/event-hub) | College event platform with Razorpay payments and role-based dashboards | React, JavaScript, Tailwind CSS, Firebase, HTML2Canvas, jsPDF| [Demo]([link]) |
 ## 💻 Tech Stack
 
 **Languages**
